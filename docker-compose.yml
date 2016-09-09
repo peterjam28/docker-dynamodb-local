@@ -1,0 +1,5 @@
+dynamodb:
+  build: .
+  ports:
+    - "9020:8000"
+
